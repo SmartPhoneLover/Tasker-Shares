@@ -6,5 +6,3 @@ You have available a Telegram Tasker group [here](https://t.me/tasker_advanced) 
 
 --------------
 Comming soon... 🧡
-
-[Type free](https://img.shields.io/badge/Type-free-brightgreen.svg)
