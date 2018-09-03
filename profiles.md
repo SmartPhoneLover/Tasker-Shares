@@ -1,1 +1,1 @@
-Comming soon... ![alt text](https://img.shields.io/badge/type-free-green.svg) | ![alt text](https://img.shields.io/badge/type-paid-blue.svg) | ![alta text] (https://img.shields.io/badge/stype-paid-blue.svg?longCache=true&style=flat-square)
+Comming soon... ![alt text](https://img.shields.io/badge/type-free-green.svg) | ![alt text](https://img.shields.io/badge/type-paid-blue.svg)
