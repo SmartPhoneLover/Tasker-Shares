@@ -12,10 +12,10 @@ You have available a Telegram Tasker group [here](https://t.me/tasker_advanced) 
 
 --------------
 What does each of the badges used here mean?<br>
-![badge](https://) = Building and actively working on the request.<br>
-![badge](https://) = The request has been accepted, and is on the waiting list to start working on it.<br>
-![badge](https://) = Checking if the request can go ahead.<br>
+![badge](https://i.imgur.com/xUeu4Ad.png) = Building and actively working on the request.<br>
+![badge](https://i.imgur.com/m2JVUz8.png) = The request has been accepted, and is on the waiting list to start working on it.<br>
+![badge](https://i.imgur.com/yd04gup.png) = Checking if the request can go ahead.<br>
 ![badge](https://i.imgur.com/QPDAgFO.png) = Requests that for some reason could not be developed, so got archived. (does not mean that they have been forgotten)<br>
-![badge](https://) = Any Tasker content that can be accessed and downloaded for free.<br>
-![badge](https://) = Selected Tasker content that requires a membership to be downloaded.
+![badge](https://i.imgur.com/KrwBAmT.png) = Any Tasker content that can be accessed and downloaded for free.<br>
+![badge](https://i.imgur.com/WoVbpUy.png) = Selected Tasker content that requires a membership to be downloaded.
 
