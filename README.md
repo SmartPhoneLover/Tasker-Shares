@@ -5,7 +5,7 @@ These are my creations in Tasker (Android). Made with love and enthusiasm for al
 You have available a Telegram Tasker group [here](https://t.me/tasker_advanced) where you will find nice and willing people to help you with any questions you have, or just contact me directly if you want to. And if you are already an experienced user in the Tasker world, you can join us and help others too.
 
 --------------
-· <span style="color:orange;">Projects</span>: [Go!](https://github.com/SmartPhoneLover/Tasker-Shares/blob/master/projects.md)<br>
+· Projects: [Go!](https://github.com/SmartPhoneLover/Tasker-Shares/blob/master/projects.md)<br>
 · Profiles: [Go!](https://github.com/SmartPhoneLover/Tasker-Shares/blob/master/profiles.md)<br>
 · Tasks: [Go!](https://github.com/SmartPhoneLover/Tasker-Shares/blob/master/tasks.md)<br>
 · Scenes: [Go!](https://github.com/SmartPhoneLover/Tasker-Shares/blob/master/scenes.md)
