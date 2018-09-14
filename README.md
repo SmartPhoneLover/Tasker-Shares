@@ -12,8 +12,7 @@ You have available a Telegram Tasker group [here](https://t.me/tasker_advanced) 
 
 --------------
 What does each of the badges used here mean?<br>
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
