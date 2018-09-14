@@ -20,5 +20,8 @@ What does each of the badges used here mean?<br>
 ![badge](https://i.imgur.com/KrwBAmT.png) = Any Tasker content that can be accessed and downloaded for free.<br>
 ![badge](https://i.imgur.com/WoVbpUy.png) = Selected Tasker content that requires a membership to be downloaded.<br>
 <br>
-&#42; Does not mean that they have been forgotten
+&#42; Does not mean that they have been forgotten.
 
+--------------
+Here you can be updated with the latest modifications on the current progress of the last requests received:<br>
+Waiting for requests...
