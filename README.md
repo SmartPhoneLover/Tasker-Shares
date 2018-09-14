@@ -15,7 +15,7 @@ What does each of the badges used here mean?<br>
 ![badge](https://) = Building and actively working on the request.<br>
 ![badge](https://) = The request has been accepted, and is on the waiting list to start working on it.<br>
 ![badge](https://) = Checking if the request can go ahead.<br>
-![badge](https://i.imgur.com/CP1tvAX.png) = Requests that for some reason could not be developed, so got archived. (does not mean that they have been forgotten)<br>
+![badge](https://i.imgur.com/QPDAgFO.png) = Requests that for some reason could not be developed, so got archived. (does not mean that they have been forgotten)<br>
 ![badge](https://) = Any Tasker content that can be accessed and downloaded for free.<br>
 ![badge](https://) = Selected Tasker content that requires a membership to be downloaded.
 
