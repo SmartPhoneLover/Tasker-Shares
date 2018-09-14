@@ -13,6 +13,6 @@ You have available a Telegram Tasker group [here](https://t.me/tasker_advanced) 
 --------------
 What does each of the badges used here mean?<br>
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 
---- | --- | --- | --- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285
+Badges | #1 | #2 | #3 | #4 | #5 | #6
+--- | --- | --- | --- |--- |--- |---
+Meaning | 301 | 283 | 290 | 286 | 289 | 285
